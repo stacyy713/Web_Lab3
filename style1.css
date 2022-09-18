@@ -1,0 +1,33 @@
+body{
+    font-size: 50px;
+    font-family: Arial, sans-serif;
+    color: white;
+    text-align: center;
+}
+#container{
+    width: 100%;
+    height: 560px;
+}
+#header{
+    background-color: dodgerblue;
+    width: 100%;
+    height: 100px;
+}
+#content1{
+    background-color: mediumslateblue;
+    width: 50%;
+    height: 360px;
+    float: left;
+}
+#content2{
+    background-color: deepskyblue;
+    width: 50%;
+    height: 360px;
+    float: right;
+}
+#footer{
+    background-color: dodgerblue;
+    width: 100%;
+    height: 100px;
+    float: right;
+}
